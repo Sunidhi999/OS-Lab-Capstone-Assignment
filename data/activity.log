@@ -1,0 +1,6 @@
+[2026-11-13 04:22:32] Testing completed: 8/9 passed
+[2026-11-13 04:22:45] Testing completed: 9/9 passed
+[2026-11-13 10:00:41] Testing completed: 9/9 passed
+[2026-11-13 10:01:53] CPU scheduling: FCFS
+[2026-11-13 10:02:37] CPU scheduling: SJF
+[2026-11-13 10:03:13] CPU scheduling: Round Robin

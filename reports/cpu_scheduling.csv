@@ -1,0 +1,4 @@
+PID,Arrival,Burst,Finish,Turnaround,Waiting
+P1,0,5,11,11,6
+P2,2,7,18,16,9
+P3,3,9,21,18,9
